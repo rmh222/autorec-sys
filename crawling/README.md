@@ -17,6 +17,8 @@ The class contains functions for all of the following tasks:
 
 * Finally a function is used to extract the information fo the author of the article. Their name, image, link and social media. To do this i extract from the page all "p" tags whose class contains the word "Contributor". Then from there the code looks for "img" tags, hyperlinks and text. 
 
+The program then prints the results of the webcrawling to txt and csv files.
+
 ## How To Compile:
 
 * Ensure Jupyter Notebook is installed on your device then download the project. 
