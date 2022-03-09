@@ -11,8 +11,6 @@
 * README.md
 * articleText.txt
 * authorDetails.csv
-
-
 <br></br>
 
 ### [Week3-CrawlingAndClassification](https://github.com/rmh222/autorec-sys/tree/main/Week3-CrawlingAndClassification) :
@@ -20,8 +18,6 @@
 * CyberCrimeArticles-new.csv
 * FrontrunnerWeek3.ipynb
 * README.md
-
-
 <br></br>
 
 ### [Week4](https://github.com/rmh222/autorec-sys/tree/main/Week4) :
@@ -31,6 +27,4 @@
 * Week4-CrawlingWithSelenium.ipynb
 * Week4-ImageClassificationWithCLIP.ipynb
 * README.md
-
-
 <br></br>
