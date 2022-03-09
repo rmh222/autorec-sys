@@ -1,4 +1,4 @@
-# Week 2 README file
+# Week 3 README file
 
 ## Code Description: 
 The code used for web crawling Euronews website can be found in the Frontrunner-Week3 jupyter notebook file. In this file I designed a python class called webCrawler that uses the requests library to access the html contents of a given url containing the results of a search for a specific tag. The code then uses the BeautifulSoup library to parse the html data and extract all the articles in the page as well as the rest of the search result pages. 
